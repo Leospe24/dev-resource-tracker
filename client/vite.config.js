@@ -9,5 +9,10 @@ export default defineConfig({
   ],
   server: {
     port: 3000
+  },
+  // Add this for proper routing in production
+  build: {
+    outDir: 'dist',
+    sourcemap: false
   }
 })
