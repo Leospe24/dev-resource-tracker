@@ -31,3 +31,8 @@ A full-stack MERN application for developers to organize and track learning reso
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Leospe24/dev-resource-tracker.git
+
+## 🌐 Live Demo
+
+- **Frontend:** https://dev-resource-tracker-api.netlify.app
+- **Backend API:** https://dev-resource-tracker-api.onrender.com/api/resources
