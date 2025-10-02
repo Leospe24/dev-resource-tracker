@@ -1,38 +1,33 @@
 # Developer Resource Tracker
 
-A full-stack MERN application for developers to organize and track learning resources.
+A fullstack MERN application I built to organize and track learning resources. This project demonstrates my ability to take an idea from concept to deployed application.
 
-## 🚀 Features
-
-- **CRUD Operations** - Create, read, update, and delete resources
-- **Priority System** - High, Medium, Low priority tagging
-- **Completion Tracking** - Mark resources as complete/incomplete
-- **Category Filtering** - Frontend, Backend, Database, DevOps, Other
-- **Toast Notifications** - User feedback for all actions
-- **Responsive Design** - Works on all devices
-
-## 🛠️ Tech Stack
-
-**Frontend:**
-- React 18
-- Tailwind CSS v4
-- Vite
-- Lucide React Icons
-- Axios
-
-**Backend:**
-- Node.js
-- Express.js
-- MongoDB with Mongoose
-- CORS
-
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Leospe24/dev-resource-tracker.git
-
-## 🌐 Live Demo
-
+## 🚀 Live Application
 - **Frontend:** https://dev-resource-tracker-api.netlify.app
 - **Backend API:** https://dev-resource-tracker-api.onrender.com/api/resources
+
+## 💡 Why I Built This
+I kept losing track of tutorials, articles, and courses I wanted to study. Instead of using scattered bookmarks, I built this application to centralize my learning resources with priority levels and completion tracking.
+
+## 🛠️ What I Learned
+- Building RESTful APIs with Node.js and Express
+- React state management and modern hooks  
+- MongoDB database design with Mongoose
+- Deployment and environment configuration
+- Responsive UI design with Tailwind CSS
+
+## 📦 Tech Stack
+**Frontend:** React, Tailwind CSS, Vite, Axios
+**Backend:** Node.js, Express, MongoDB, Mongoose
+**Deployment:** Netlify, Render, MongoDB Atlas
+
+## 🎯 Features
+- Add, edit, and delete learning resources
+- Set priority levels (High, Medium, Low)
+- Mark resources as complete
+- Responsive design for all devices
+- Real-time UI updates
+
+---
+
+*This project represents my journey into modern fullstack development.*
